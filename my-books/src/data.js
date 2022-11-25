@@ -51,3 +51,4 @@ const books = [
         characters: ['Sasha Samokhina ', 'Farit']
     }
 ]
+export default books
